@@ -1,6 +1,6 @@
 # Annalise Gade
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 09/18/24
 # Lab 02 
 # Lab Section: 15
 # Sources, people worked with, help given to: N/A
